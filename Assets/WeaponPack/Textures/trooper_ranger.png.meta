@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: b2c8db2ec354a8d4e98fb2ccb9de55e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5698316477076987987
+    second: trooper_ranger_0
+  - first:
+      213: -3570276330334434116
+    second: trooper_ranger_1
+  - first:
+      213: -880056684093229981
+    second: trooper_ranger_2
+  - first:
+      213: 7726868220170024922
+    second: trooper_ranger_3
+  - first:
+      213: -2769869020322303989
+    second: trooper_ranger_4
+  - first:
+      213: -4061594033068466381
+    second: trooper_ranger_5
+  - first:
+      213: -6021323498166886504
+    second: trooper_ranger_6
+  - first:
+      213: 4820722469064843341
+    second: trooper_ranger_7
+  - first:
+      213: 3604148808131543239
+    second: trooper_ranger_8
+  - first:
+      213: -5776425835215267184
+    second: trooper_ranger_9
+  - first:
+      213: 8162035063076493458
+    second: trooper_ranger_10
+  - first:
+      213: 8562486311276998145
+    second: trooper_ranger_11
+  - first:
+      213: 5900359748644208800
+    second: trooper_ranger_12
+  - first:
+      213: -5374465743308720134
+    second: trooper_ranger_13
+  - first:
+      213: -1571481797327579606
+    second: trooper_ranger_14
+  - first:
+      213: 2820154201013728454
+    second: trooper_ranger_15
+  - first:
+      213: 420626230933479794
+    second: trooper_ranger_16
+  - first:
+      213: 1369060775839327977
+    second: trooper_ranger_17
+  - first:
+      213: -7924312805933378744
+    second: trooper_ranger_18
+  - first:
+      213: -7874847330572431202
+    second: trooper_ranger_19
+  - first:
+      213: 1737481422216736031
+    second: trooper_ranger_20
+  - first:
+      213: 6639909834308365656
+    second: trooper_ranger_21
+  - first:
+      213: -678736233866534547
+    second: trooper_ranger_22
+  - first:
+      213: 4167797997414709940
+    second: trooper_ranger_23
+  - first:
+      213: -5849380067049542519
+    second: trooper_ranger_24
+  - first:
+      213: -8996586876769646201
+    second: trooper_ranger_25
+  - first:
+      213: -4185507595557601336
+    second: trooper_ranger_26
+  - first:
+      213: -7559182826278251008
+    second: trooper_ranger_27
+  - first:
+      213: 3217164709727581315
+    second: trooper_ranger_28
+  - first:
+      213: 7123945897713882744
+    second: trooper_ranger_29
+  - first:
+      213: 236517072941808800
+    second: trooper_ranger_30
+  - first:
+      213: -609859377373674554
+    second: trooper_ranger_31
+  - first:
+      213: 1581431425488122844
+    second: trooper_ranger_32
+  - first:
+      213: -5445566864659701234
+    second: trooper_ranger_33
+  - first:
+      213: -5125563263506468032
+    second: trooper_ranger_34
+  - first:
+      213: 3323387613423766126
+    second: trooper_ranger_35
+  - first:
+      213: -8833129957525373365
+    second: trooper_ranger_36
+  - first:
+      213: 2496709252839550408
+    second: trooper_ranger_37
+  - first:
+      213: 4229191450173090999
+    second: trooper_ranger_38
+  - first:
+      213: -3756947347734125115
+    second: trooper_ranger_39
+  - first:
+      213: -7742728307071694777
+    second: trooper_ranger_40
+  - first:
+      213: 9075436055697485654
+    second: trooper_ranger_41
+  - first:
+      213: 800383465303086868
+    second: trooper_ranger_42
+  - first:
+      213: 8350126707391341791
+    second: trooper_ranger_43
+  - first:
+      213: 5428108620045458715
+    second: trooper_ranger_44
+  - first:
+      213: -7231085358976948363
+    second: trooper_ranger_45
+  - first:
+      213: -7510860181244485919
+    second: trooper_ranger_46
+  - first:
+      213: -5927042844281606503
+    second: trooper_ranger_47
+  - first:
+      213: 1706225881363398584
+    second: trooper_ranger_48
+  - first:
+      213: 3425189358350806088
+    second: trooper_ranger_49
+  - first:
+      213: 5624220344676567421
+    second: trooper_ranger_50
+  - first:
+      213: -1096010015028370163
+    second: trooper_ranger_51
+  - first:
+      213: -7922692710043033630
+    second: trooper_ranger_52
+  - first:
+      213: -4416524453298740234
+    second: trooper_ranger_53
+  - first:
+      213: 4528995887351417616
+    second: trooper_ranger_54
+  - first:
+      213: 3169312725792331840
+    second: trooper_ranger_55
+  - first:
+      213: -5257524246645215288
+    second: trooper_ranger_56
+  - first:
+      213: 5267038011473116338
+    second: trooper_ranger_57
+  - first:
+      213: 6661280533903591557
+    second: trooper_ranger_58
+  - first:
+      213: 7888010970569684446
+    second: trooper_ranger_59
+  - first:
+      213: 1022645910288941846
+    second: trooper_ranger_60
+  - first:
+      213: 8285324368606361525
+    second: trooper_ranger_61
+  - first:
+      213: 5769072343375582703
+    second: trooper_ranger_62
+  - first:
+      213: 3550624820576178758
+    second: trooper_ranger_63
+  - first:
+      213: 7393420393415751698
+    second: trooper_ranger_64
+  - first:
+      213: -4775750246694712621
+    second: trooper_ranger_65
+  - first:
+      213: -3899369144662518130
+    second: trooper_ranger_66
+  - first:
+      213: -1703294535129763270
+    second: trooper_ranger_67
+  - first:
+      213: 8894927624963648695
+    second: trooper_ranger_68
+  - first:
+      213: 4611144556733560192
+    second: trooper_ranger_69
+  - first:
+      213: 3514322557668436351
+    second: trooper_ranger_70
+  - first:
+      213: 7380016135245084861
+    second: trooper_ranger_71
+  - first:
+      213: -6011256697509187453
+    second: trooper_ranger_72
+  - first:
+      213: 6784419329543979205
+    second: trooper_ranger_73
+  - first:
+      213: -840591762214701109
+    second: trooper_ranger_74
+  - first:
+      213: 5152879097422456287
+    second: trooper_ranger_75
+  - first:
+      213: -859671569360741135
+    second: trooper_ranger_76
+  - first:
+      213: -3728789179875790245
+    second: trooper_ranger_77
+  - first:
+      213: 557177672624412805
+    second: trooper_ranger_78
+  - first:
+      213: 3754325713804130230
+    second: trooper_ranger_79
+  - first:
+      213: 3050239737217665518
+    second: trooper_ranger_80
+  - first:
+      213: -2260539562230031071
+    second: trooper_ranger_81
+  - first:
+      213: 5075537360342023325
+    second: trooper_ranger_82
+  - first:
+      213: 6934774838085538573
+    second: trooper_ranger_83
+  - first:
+      213: 6070349059105463087
+    second: trooper_ranger_84
+  - first:
+      213: 4860475570877022289
+    second: trooper_ranger_85
+  - first:
+      213: 6765342608080244931
+    second: trooper_ranger_86
+  - first:
+      213: 4477133564410341813
+    second: trooper_ranger_87
+  - first:
+      213: 379965400351906578
+    second: trooper_ranger_88
+  - first:
+      213: 4965052346014764171
+    second: trooper_ranger_89
+  - first:
+      213: 4082696446940895320
+    second: trooper_ranger_90
+  - first:
+      213: 5489879615726481720
+    second: trooper_ranger_91
+  - first:
+      213: -3874015576739536695
+    second: trooper_ranger_92
+  - first:
+      213: -8639351615295103922
+    second: trooper_ranger_93
+  - first:
+      213: -3488359335283124006
+    second: trooper_ranger_94
+  - first:
+      213: 3684093202565128919
+    second: trooper_ranger_95
+  - first:
+      213: -7111544859750874596
+    second: trooper_ranger_96
+  - first:
+      213: -343989132903657404
+    second: trooper_ranger_97
+  - first:
+      213: 779486536391745770
+    second: trooper_ranger_98
+  - first:
+      213: 5298541546154959587
+    second: trooper_ranger_99
+  - first:
+      213: 8398431256138495594
+    second: trooper_ranger_100
+  - first:
+      213: -2222055821976528164
+    second: trooper_ranger_101
+  - first:
+      213: 9098294076187033729
+    second: trooper_ranger_102
+  - first:
+      213: -542087540391072631
+    second: trooper_ranger_103
+  - first:
+      213: -642992800996638244
+    second: trooper_ranger_104
+  - first:
+      213: -844380360963739727
+    second: trooper_ranger_105
+  - first:
+      213: -2397129184925306661
+    second: trooper_ranger_106
+  - first:
+      213: -4671899563799829232
+    second: trooper_ranger_107
+  - first:
+      213: 2694926790280789862
+    second: trooper_ranger_108
+  - first:
+      213: 4378925929854624489
+    second: trooper_ranger_109
+  - first:
+      213: 3783536848627433906
+    second: trooper_ranger_110
+  - first:
+      213: 3317840860061327160
+    second: trooper_ranger_111
+  - first:
+      213: 1795774336315071405
+    second: trooper_ranger_112
+  - first:
+      213: -4121887100051940645
+    second: trooper_ranger_113
+  - first:
+      213: 8065930595366101235
+    second: trooper_ranger_114
+  - first:
+      213: 2060107925564749093
+    second: trooper_ranger_115
+  - first:
+      213: -5464818592657987317
+    second: trooper_ranger_116
+  - first:
+      213: -7206148248323444516
+    second: trooper_ranger_117
+  - first:
+      213: 5172377886557323987
+    second: trooper_ranger_118
+  - first:
+      213: -4481380191270226397
+    second: trooper_ranger_119
+  - first:
+      213: 8445121924649539229
+    second: trooper_ranger_120
+  - first:
+      213: 2754402501454023464
+    second: trooper_ranger_121
+  - first:
+      213: -4456393267696800657
+    second: trooper_ranger_122
+  - first:
+      213: 3472858204035857661
+    second: trooper_ranger_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trooper_ranger_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350ede915ac741f40800000000000000
+      internalID: 5698316477076987987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 237
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc4e6cf794d37ec0800000000000000
+      internalID: -3570276330334434116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3643a6acb1969c3f0800000000000000
+      internalID: -880056684093229981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 241
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad73d7125b95b3b60800000000000000
+      internalID: 7726868220170024922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 241
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0074592dc27f89d0800000000000000
+      internalID: -2769869020322303989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 237
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f9b150fb152a7c0800000000000000
+      internalID: -4061594033068466381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 244
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fdc064e26ff6ca0800000000000000
+      internalID: -6021323498166886504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 242
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40aa595b85a6e240800000000000000
+      internalID: 4820722469064843341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 245
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c00452de32840230800000000000000
+      internalID: 3604148808131543239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ada94ce4306dfa0800000000000000
+      internalID: -5776425835215267184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 245
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29815f245af554170800000000000000
+      internalID: 8162035063076493458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 216
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e6fc12fef04d670800000000000000
+      internalID: 8562486311276998145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a083f01ee942e150800000000000000
+      internalID: 5900359748644208800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 225
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7f390b1ef0a65b0800000000000000
+      internalID: -5374465743308720134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 236
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a261c43a1a9f03ae0800000000000000
+      internalID: -1571481797327579606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 226
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4bf33dd43332720800000000000000
+      internalID: 2820154201013728454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 238
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2716006145d56d500800000000000000
+      internalID: 420626230933479794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 217
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6e2d3a581eff210800000000000000
+      internalID: 1369060775839327977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 230
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8431341ec7f270290800000000000000
+      internalID: -7924312805933378744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 229
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901cc8531ce6b290800000000000000
+      internalID: -7874847330572431202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 217
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1da11fd526cc1810800000000000000
+      internalID: 1737481422216736031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 230
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da29680d2b52c50800000000000000
+      internalID: 6639909834308365656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e23ccdf4a496f0800000000000000
+      internalID: -678736233866534547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 217
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bafc7b523ef6d930800000000000000
+      internalID: 4167797997414709940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 216
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ce24302d3d2dea0800000000000000
+      internalID: -5849380067049542519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 194
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789443bc6e3b52380800000000000000
+      internalID: -8996586876769646201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 213
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cff61284071ae5c0800000000000000
+      internalID: -4185507595557601336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 222
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006937f0543681790800000000000000
+      internalID: -7559182826278251008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 161
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3843c3b124aa5ac20800000000000000
+      internalID: 3217164709727581315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 209
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8765658bc075dd260800000000000000
+      internalID: 7123945897713882744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 180
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf2045607484300800000000000000
+      internalID: 236517072941808800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 214
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c383b0a0285987f0800000000000000
+      internalID: -609859377373674554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 186
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3fbd0b08f52f510800000000000000
+      internalID: 1581431425488122844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e022257d9c57d64b0800000000000000
+      internalID: -5445566864659701234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 185
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043b7e44e575ed8b0800000000000000
+      internalID: -5125563263506468032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 206
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a8e052d6b0f1e20800000000000000
+      internalID: 3323387613423766126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb6d28a1b6a6580800000000000000
+      internalID: -8833129957525373365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 193
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdaeea56d716a220800000000000000
+      internalID: 2496709252839550408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 196
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcafaa773b11ba30800000000000000
+      internalID: 4229191450173090999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 198
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5267ada44acdbc0800000000000000
+      internalID: -3756947347734125115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_40
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 176
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74841a0a0ad4c8490800000000000000
+      internalID: -7742728307071694777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_41
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 181
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fee99420d62fd70800000000000000
+      internalID: 9075436055697485654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 188
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4179c7565888b1b00800000000000000
+      internalID: 800383465303086868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 61
+        width: 48
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4209fdffb91e370800000000000000
+      internalID: 8350126707391341791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 190
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d9b04d704845b40800000000000000
+      internalID: 5428108620045458715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 172
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a6ad8d2606ab90800000000000000
+      internalID: -7231085358976948363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eedb4b957014c790800000000000000
+      internalID: -7510860181244485919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 182
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee21a9fe9eebda0800000000000000
+      internalID: -5927042844281606503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3e3d266bbda710800000000000000
+      internalID: 1706225881363398584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 162
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca2f0f297b88f20800000000000000
+      internalID: 3425189358350806088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 160
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c8f6ea9e3d0e40800000000000000
+      internalID: 5624220344676567421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 174
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a6ffb2b03ac0f0800000000000000
+      internalID: -1096010015028370163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 169
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efde49d4f0fc0290800000000000000
+      internalID: -7922692710043033630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 172
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f36d43d86a55b2c0800000000000000
+      internalID: -4416524453298740234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b49ce83c93ade30800000000000000
+      internalID: 4528995887351417616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0481af2e129abfb20800000000000000
+      internalID: 3169312725792331840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf65b0ad858907b0800000000000000
+      internalID: -5257524246645215288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 148
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcb55c5a27481940800000000000000
+      internalID: 5267038011473116338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_58
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 133
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5884c844a5f917c50800000000000000
+      internalID: 6661280533903591557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_59
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 145
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b03d6f28d77d60800000000000000
+      internalID: 7888010970569684446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 145
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61347c5890b213e00800000000000000
+      internalID: 1022645910288941846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 145
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b77baf9d926bf270800000000000000
+      internalID: 8285324368606361525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 145
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe59e6efabcdf0050800000000000000
+      internalID: 5769072343375582703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 141
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d029567a564130800000000000000
+      internalID: 3550624820576178758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 145
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218bca00da4ba9660800000000000000
+      internalID: 7393420393415751698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_65
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 145
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da07c1247029bdb0800000000000000
+      internalID: -4775750246694712621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 145
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8695443c68a2e9c0800000000000000
+      internalID: -3899369144662518130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 144
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32f9bd05aeac58e0800000000000000
+      internalID: -1703294535129763270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_68
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 137
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc64cc2c81217b70800000000000000
+      internalID: 8894927624963648695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08574102b831eff30800000000000000
+      internalID: 4611144556733560192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7928fb1fb165c030800000000000000
+      internalID: 3514322557668436351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db83fe1f2951b6660800000000000000
+      internalID: 7380016135245084861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380f643f1e9b39ca0800000000000000
+      internalID: -6011256697509187453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 129
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c043c05f69172e50800000000000000
+      internalID: 6784419329543979205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 129
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7b214fe3e9554f0800000000000000
+      internalID: -840591762214701109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 129
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a66cec34b28740800000000000000
+      internalID: 5152879097422456287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 126
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc10cc2345d114f0800000000000000
+      internalID: -859671569360741135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 61
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52fe233ffda04cc0800000000000000
+      internalID: -3728789179875790245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5889e85242e7bb700800000000000000
+      internalID: 557177672624412805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7f86e685b0a1430800000000000000
+      internalID: 3754325713804130230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_80
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 126
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c3a051e0a45a20800000000000000
+      internalID: 3050239737217665518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 126
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ddf88be33f0a0e0800000000000000
+      internalID: -2260539562230031071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 109
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cf86f765eef6640800000000000000
+      internalID: 5075537360342023325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_83
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 128
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03d76529f44d3060800000000000000
+      internalID: 6934774838085538573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_84
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 117
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b9b92ae463e3450800000000000000
+      internalID: 6070349059105463087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 81
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150c691a7c0e37340800000000000000
+      internalID: 4860475570877022289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_86
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 130
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0107af14353ed50800000000000000
+      internalID: 6765342608080244931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 124
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b928a68149f12e30800000000000000
+      internalID: 4477133564410341813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 82
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b1aeab488e54500800000000000000
+      internalID: 379965400351906578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_89
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 117
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c0e6f7dc867e440800000000000000
+      internalID: 4965052346014764171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 92
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85859a599c6a8a830800000000000000
+      internalID: 4082696446940895320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 113
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831f8038c68ff2c40800000000000000
+      internalID: 5489879615726481720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_92
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 113
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c02c1ebb5bbc3ac0800000000000000
+      internalID: -3874015576739536695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_93
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 113
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c53a8aa7bda1880800000000000000
+      internalID: -8639351615295103922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 113
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8188baaabd69fc0800000000000000
+      internalID: -3488359335283124006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_95
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 109
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d26352af37802330800000000000000
+      internalID: 3684093202565128919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_96
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 113
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c124b4ee0a7be4d90800000000000000
+      internalID: -7111544859750874596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 113
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440dea6c4b7e93bf0800000000000000
+      internalID: -343989132903657404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_98
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 105
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae064dcffda41da00800000000000000
+      internalID: 779486536391745770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_99
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 116
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2273e9673388940800000000000000
+      internalID: 5298541546154959587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_100
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 100
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a663cac0bb83d8470800000000000000
+      internalID: 8398431256138495594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda100cb00ca921e0800000000000000
+      internalID: -2222055821976528164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_102
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1804b29e142a34e70800000000000000
+      internalID: 9098294076187033729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_103
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 101
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c23dd014e1a78f0800000000000000
+      internalID: -542087540391072631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_104
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 101
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd146774471a317f0800000000000000
+      internalID: -642992800996638244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 101
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa07119882844f0800000000000000
+      internalID: -844380360963739727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 82
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd03ec3f4bfabbed0800000000000000
+      internalID: -2397129184925306661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_107
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 101
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015a86979141a2fb0800000000000000
+      internalID: -4671899563799829232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_108
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 80
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fbe5e23ad466520800000000000000
+      internalID: 2694926790280789862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_109
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 101
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e26bb2cee115cc30800000000000000
+      internalID: 4378925929854624489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_110
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b10a01c7b2d18430800000000000000
+      internalID: 3783536848627433906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_111
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 105
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f5b3dfea65b0e20800000000000000
+      internalID: 3317840860061327160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab92d49e3fdbe810800000000000000
+      internalID: 1795774336315071405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_113
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 86
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda932d658d1cc6c0800000000000000
+      internalID: -4121887100051940645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_114
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 86
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f060cf2421ffef60800000000000000
+      internalID: 8065930595366101235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_115
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f04e4e39f69c10800000000000000
+      internalID: 2060107925564749093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_116
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 86
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09abae91701924b0800000000000000
+      internalID: -5464818592657987317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_117
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 61
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b0e3195e9efb90800000000000000
+      internalID: -7206148248323444516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2c55c884af7c740800000000000000
+      internalID: 5172377886557323987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 70
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326bddb9570fec1c0800000000000000
+      internalID: -4481380191270226397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96599375a9133570800000000000000
+      internalID: 8445121924649539229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_121
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 70
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b4d9b4b7a993620800000000000000
+      internalID: 2754402501454023464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_122
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 73
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c6d7b1fe5b722c0800000000000000
+      internalID: -4456393267696800657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trooper_ranger_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcbbd6f222123030800000000000000
+      internalID: 3472858204035857661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trooper_ranger_0: 5698316477076987987
+      trooper_ranger_1: -3570276330334434116
+      trooper_ranger_10: 8162035063076493458
+      trooper_ranger_100: 8398431256138495594
+      trooper_ranger_101: -2222055821976528164
+      trooper_ranger_102: 9098294076187033729
+      trooper_ranger_103: -542087540391072631
+      trooper_ranger_104: -642992800996638244
+      trooper_ranger_105: -844380360963739727
+      trooper_ranger_106: -2397129184925306661
+      trooper_ranger_107: -4671899563799829232
+      trooper_ranger_108: 2694926790280789862
+      trooper_ranger_109: 4378925929854624489
+      trooper_ranger_11: 8562486311276998145
+      trooper_ranger_110: 3783536848627433906
+      trooper_ranger_111: 3317840860061327160
+      trooper_ranger_112: 1795774336315071405
+      trooper_ranger_113: -4121887100051940645
+      trooper_ranger_114: 8065930595366101235
+      trooper_ranger_115: 2060107925564749093
+      trooper_ranger_116: -5464818592657987317
+      trooper_ranger_117: -7206148248323444516
+      trooper_ranger_118: 5172377886557323987
+      trooper_ranger_119: -4481380191270226397
+      trooper_ranger_12: 5900359748644208800
+      trooper_ranger_120: 8445121924649539229
+      trooper_ranger_121: 2754402501454023464
+      trooper_ranger_122: -4456393267696800657
+      trooper_ranger_123: 3472858204035857661
+      trooper_ranger_13: -5374465743308720134
+      trooper_ranger_14: -1571481797327579606
+      trooper_ranger_15: 2820154201013728454
+      trooper_ranger_16: 420626230933479794
+      trooper_ranger_17: 1369060775839327977
+      trooper_ranger_18: -7924312805933378744
+      trooper_ranger_19: -7874847330572431202
+      trooper_ranger_2: -880056684093229981
+      trooper_ranger_20: 1737481422216736031
+      trooper_ranger_21: 6639909834308365656
+      trooper_ranger_22: -678736233866534547
+      trooper_ranger_23: 4167797997414709940
+      trooper_ranger_24: -5849380067049542519
+      trooper_ranger_25: -8996586876769646201
+      trooper_ranger_26: -4185507595557601336
+      trooper_ranger_27: -7559182826278251008
+      trooper_ranger_28: 3217164709727581315
+      trooper_ranger_29: 7123945897713882744
+      trooper_ranger_3: 7726868220170024922
+      trooper_ranger_30: 236517072941808800
+      trooper_ranger_31: -609859377373674554
+      trooper_ranger_32: 1581431425488122844
+      trooper_ranger_33: -5445566864659701234
+      trooper_ranger_34: -5125563263506468032
+      trooper_ranger_35: 3323387613423766126
+      trooper_ranger_36: -8833129957525373365
+      trooper_ranger_37: 2496709252839550408
+      trooper_ranger_38: 4229191450173090999
+      trooper_ranger_39: -3756947347734125115
+      trooper_ranger_4: -2769869020322303989
+      trooper_ranger_40: -7742728307071694777
+      trooper_ranger_41: 9075436055697485654
+      trooper_ranger_42: 800383465303086868
+      trooper_ranger_43: 8350126707391341791
+      trooper_ranger_44: 5428108620045458715
+      trooper_ranger_45: -7231085358976948363
+      trooper_ranger_46: -7510860181244485919
+      trooper_ranger_47: -5927042844281606503
+      trooper_ranger_48: 1706225881363398584
+      trooper_ranger_49: 3425189358350806088
+      trooper_ranger_5: -4061594033068466381
+      trooper_ranger_50: 5624220344676567421
+      trooper_ranger_51: -1096010015028370163
+      trooper_ranger_52: -7922692710043033630
+      trooper_ranger_53: -4416524453298740234
+      trooper_ranger_54: 4528995887351417616
+      trooper_ranger_55: 3169312725792331840
+      trooper_ranger_56: -5257524246645215288
+      trooper_ranger_57: 5267038011473116338
+      trooper_ranger_58: 6661280533903591557
+      trooper_ranger_59: 7888010970569684446
+      trooper_ranger_6: -6021323498166886504
+      trooper_ranger_60: 1022645910288941846
+      trooper_ranger_61: 8285324368606361525
+      trooper_ranger_62: 5769072343375582703
+      trooper_ranger_63: 3550624820576178758
+      trooper_ranger_64: 7393420393415751698
+      trooper_ranger_65: -4775750246694712621
+      trooper_ranger_66: -3899369144662518130
+      trooper_ranger_67: -1703294535129763270
+      trooper_ranger_68: 8894927624963648695
+      trooper_ranger_69: 4611144556733560192
+      trooper_ranger_7: 4820722469064843341
+      trooper_ranger_70: 3514322557668436351
+      trooper_ranger_71: 7380016135245084861
+      trooper_ranger_72: -6011256697509187453
+      trooper_ranger_73: 6784419329543979205
+      trooper_ranger_74: -840591762214701109
+      trooper_ranger_75: 5152879097422456287
+      trooper_ranger_76: -859671569360741135
+      trooper_ranger_77: -3728789179875790245
+      trooper_ranger_78: 557177672624412805
+      trooper_ranger_79: 3754325713804130230
+      trooper_ranger_8: 3604148808131543239
+      trooper_ranger_80: 3050239737217665518
+      trooper_ranger_81: -2260539562230031071
+      trooper_ranger_82: 5075537360342023325
+      trooper_ranger_83: 6934774838085538573
+      trooper_ranger_84: 6070349059105463087
+      trooper_ranger_85: 4860475570877022289
+      trooper_ranger_86: 6765342608080244931
+      trooper_ranger_87: 4477133564410341813
+      trooper_ranger_88: 379965400351906578
+      trooper_ranger_89: 4965052346014764171
+      trooper_ranger_9: -5776425835215267184
+      trooper_ranger_90: 4082696446940895320
+      trooper_ranger_91: 5489879615726481720
+      trooper_ranger_92: -3874015576739536695
+      trooper_ranger_93: -8639351615295103922
+      trooper_ranger_94: -3488359335283124006
+      trooper_ranger_95: 3684093202565128919
+      trooper_ranger_96: -7111544859750874596
+      trooper_ranger_97: -343989132903657404
+      trooper_ranger_98: 779486536391745770
+      trooper_ranger_99: 5298541546154959587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

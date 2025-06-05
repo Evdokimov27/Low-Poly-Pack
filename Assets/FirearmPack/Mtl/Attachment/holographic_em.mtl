@@ -1,0 +1,5 @@
+newmtl holographic_em.png
+map_Kd holographic_em.png
+Kd 1 1 1
+d 1
+

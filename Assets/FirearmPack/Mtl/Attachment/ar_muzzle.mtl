@@ -1,0 +1,5 @@
+newmtl ar_muzzlebrake.png
+map_Kd ar_muzzlebrake.png
+Kd 1 1 1
+d 1
+

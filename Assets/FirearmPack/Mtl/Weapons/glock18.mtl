@@ -1,0 +1,10 @@
+newmtl glock18.png
+map_Kd glock18.png
+Kd 1 1 1
+d 1
+
+newmtl glock17.png
+map_Kd glock17.png
+Kd 1 1 1
+d 1
+

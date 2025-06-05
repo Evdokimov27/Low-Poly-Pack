@@ -1,0 +1,5 @@
+newmtl sg_suppressor.png
+map_Kd sg_suppressor.png
+Kd 1 1 1
+d 1
+

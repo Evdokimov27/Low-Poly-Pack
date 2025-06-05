@@ -1,0 +1,5 @@
+newmtl m203launcher.png
+map_Kd m203launcher.png
+Kd 1 1 1
+d 1
+

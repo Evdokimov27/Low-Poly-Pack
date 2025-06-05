@@ -1,0 +1,5 @@
+newmtl xm7_suppressor.png
+map_Kd xm7_suppressor.png
+Kd 1 1 1
+d 1
+

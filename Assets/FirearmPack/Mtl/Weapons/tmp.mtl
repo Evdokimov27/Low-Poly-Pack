@@ -1,0 +1,5 @@
+newmtl tmp.png
+map_Kd tmp.png
+Kd 1 1 1
+d 1
+

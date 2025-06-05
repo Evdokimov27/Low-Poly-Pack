@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 0964810f7711317408b88ff0cfc4fb81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6793181332476539875
+    second: ach_0
+  - first:
+      213: 1157941714370435987
+    second: ach_1
+  - first:
+      213: -4168241479127862157
+    second: ach_2
+  - first:
+      213: -7999357007367968836
+    second: ach_3
+  - first:
+      213: -669274069067536646
+    second: ach_4
+  - first:
+      213: 7934592986477719622
+    second: ach_5
+  - first:
+      213: 6836120947024200904
+    second: ach_6
+  - first:
+      213: 6102234330915683656
+    second: ach_7
+  - first:
+      213: -3047521080986980653
+    second: ach_8
+  - first:
+      213: -5307074744419550613
+    second: ach_9
+  - first:
+      213: 2860617140175327595
+    second: ach_10
+  - first:
+      213: 5454218138887771358
+    second: ach_11
+  - first:
+      213: 7054042351459123870
+    second: ach_12
+  - first:
+      213: -1433235407920179305
+    second: ach_13
+  - first:
+      213: 6758049143365075178
+    second: ach_14
+  - first:
+      213: 1940808478552742155
+    second: ach_15
+  - first:
+      213: -2294936089660350153
+    second: ach_16
+  - first:
+      213: -4435905390401602759
+    second: ach_17
+  - first:
+      213: 1470209630040870801
+    second: ach_18
+  - first:
+      213: -6008325858694227543
+    second: ach_19
+  - first:
+      213: -2483583451576735161
+    second: ach_20
+  - first:
+      213: 3846969430880089725
+    second: ach_21
+  - first:
+      213: 7313142142840642469
+    second: ach_22
+  - first:
+      213: 2144076114623340194
+    second: ach_23
+  - first:
+      213: 5236040751108211170
+    second: ach_24
+  - first:
+      213: 7021158565203287871
+    second: ach_25
+  - first:
+      213: -7660243669000449439
+    second: ach_26
+  - first:
+      213: -6985175944985919447
+    second: ach_27
+  - first:
+      213: -1937472710081682776
+    second: ach_28
+  - first:
+      213: 5485882878085128405
+    second: ach_29
+  - first:
+      213: 4004091090547942978
+    second: ach_30
+  - first:
+      213: -898126901064314787
+    second: ach_31
+  - first:
+      213: -7826359187848210931
+    second: ach_32
+  - first:
+      213: -6956879489626378050
+    second: ach_33
+  - first:
+      213: 1656420735676112571
+    second: ach_34
+  - first:
+      213: -3398290348337031779
+    second: ach_35
+  - first:
+      213: 58351775344578589
+    second: ach_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ach_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e334191e6a364e50800000000000000
+      internalID: 6793181332476539875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 57
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b18abaad5d11010800000000000000
+      internalID: 1157941714370435987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 112
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f882857e6726c0800000000000000
+      internalID: -4168241479127862157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 233
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ec482f239cf090800000000000000
+      internalID: -7999357007367968836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 236
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af669d7b7c246b6f0800000000000000
+      internalID: -669274069067536646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6407f4c28465d1e60800000000000000
+      internalID: 7934592986477719622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 206
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c40cf038c7cede50800000000000000
+      internalID: 6836120947024200904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 214
+        width: 94
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3c6efacd7fa450800000000000000
+      internalID: 6102234330915683656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 218
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dea14a29b705b5d0800000000000000
+      internalID: -3047521080986980653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 192
+        width: 76
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6afc6653ab7956b0800000000000000
+      internalID: -5307074744419550613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b615b8ef124f2b720800000000000000
+      internalID: 2860617140175327595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 198
+        width: 94
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4d5e7ef7641bb40800000000000000
+      internalID: 5454218138887771358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92484d052ef4e160800000000000000
+      internalID: 7054042351459123870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d7677dff1c1ce0800000000000000
+      internalID: -1433235407920179305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae088e4e3e969cd50800000000000000
+      internalID: 6758049143365075178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 109
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09d33547032fea10800000000000000
+      internalID: 1940808478552742155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 117
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731229919cfb620e0800000000000000
+      internalID: -2294936089660350153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 113
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b3fd3cc8f7072c0800000000000000
+      internalID: -4435905390401602759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 117
+        width: 100
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc1f77edb376410800000000000000
+      internalID: 1470209630040870801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 117
+        width: 87
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a99cb907732e9ca0800000000000000
+      internalID: -6008325858694227543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 101
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aeab6620a888dd0800000000000000
+      internalID: -2483583451576735161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f465b05e236530800000000000000
+      internalID: 3846969430880089725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 75
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab94ff38008d7560800000000000000
+      internalID: 7313142142840642469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae168fcdd941cd10800000000000000
+      internalID: 2144076114623340194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1464742572aa840800000000000000
+      internalID: 5236040751108211170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f12aee38a207160800000000000000
+      internalID: 7021158565203287871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_26
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 89
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1621b4008f851b590800000000000000
+      internalID: -7660243669000449439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 98
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920c281bc7baf0f90800000000000000
+      internalID: -6985175944985919447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a26199d5d6bc15e0800000000000000
+      internalID: -1937472710081682776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d069a38965c12c40800000000000000
+      internalID: 5485882878085128405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246aa6cd1a3619730800000000000000
+      internalID: 4004091090547942978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 75
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50d6da87563983f0800000000000000
+      internalID: -898126901064314787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 77
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0651b3d8cf236390800000000000000
+      internalID: -7826359187848210931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07e9b96f2347f90800000000000000
+      internalID: -6956879489626378050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed09c02e9ccf610800000000000000
+      internalID: 1656420735676112571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 77
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d959bbfdee8d6d0d0800000000000000
+      internalID: -3398290348337031779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ach_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 75
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d105d6961ae4fc000800000000000000
+      internalID: 58351775344578589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ach_0: 6793181332476539875
+      ach_1: 1157941714370435987
+      ach_10: 2860617140175327595
+      ach_11: 5454218138887771358
+      ach_12: 7054042351459123870
+      ach_13: -1433235407920179305
+      ach_14: 6758049143365075178
+      ach_15: 1940808478552742155
+      ach_16: -2294936089660350153
+      ach_17: -4435905390401602759
+      ach_18: 1470209630040870801
+      ach_19: -6008325858694227543
+      ach_2: -4168241479127862157
+      ach_20: -2483583451576735161
+      ach_21: 3846969430880089725
+      ach_22: 7313142142840642469
+      ach_23: 2144076114623340194
+      ach_24: 5236040751108211170
+      ach_25: 7021158565203287871
+      ach_26: -7660243669000449439
+      ach_27: -6985175944985919447
+      ach_28: -1937472710081682776
+      ach_29: 5485882878085128405
+      ach_3: -7999357007367968836
+      ach_30: 4004091090547942978
+      ach_31: -898126901064314787
+      ach_32: -7826359187848210931
+      ach_33: -6956879489626378050
+      ach_34: 1656420735676112571
+      ach_35: -3398290348337031779
+      ach_36: 58351775344578589
+      ach_4: -669274069067536646
+      ach_5: 7934592986477719622
+      ach_6: 6836120947024200904
+      ach_7: 6102234330915683656
+      ach_8: -3047521080986980653
+      ach_9: -5307074744419550613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

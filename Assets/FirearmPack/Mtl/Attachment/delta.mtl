@@ -1,0 +1,5 @@
+newmtl delta.png
+map_Kd delta.png
+Kd 1 1 1
+d 1
+

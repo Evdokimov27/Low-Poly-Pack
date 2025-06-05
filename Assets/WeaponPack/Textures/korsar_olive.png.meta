@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: 5fd468654f39b794c870c753a24a2ca9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6010933888887733489
+    second: korsar_olive_0
+  - first:
+      213: 8759048627103138031
+    second: korsar_olive_1
+  - first:
+      213: -2557790704914541998
+    second: korsar_olive_2
+  - first:
+      213: -6806409491491831257
+    second: korsar_olive_3
+  - first:
+      213: -8568757810643931861
+    second: korsar_olive_4
+  - first:
+      213: -6830297129587156709
+    second: korsar_olive_5
+  - first:
+      213: -4996831911622711790
+    second: korsar_olive_6
+  - first:
+      213: -5493727188913247733
+    second: korsar_olive_7
+  - first:
+      213: -4193685201803338254
+    second: korsar_olive_8
+  - first:
+      213: 7082026909657931423
+    second: korsar_olive_9
+  - first:
+      213: -5530974958707436041
+    second: korsar_olive_10
+  - first:
+      213: 7023147959861602325
+    second: korsar_olive_11
+  - first:
+      213: 17654270888224627
+    second: korsar_olive_12
+  - first:
+      213: -2984080450679889821
+    second: korsar_olive_13
+  - first:
+      213: 5064619032394104270
+    second: korsar_olive_14
+  - first:
+      213: 3534495365599617
+    second: korsar_olive_15
+  - first:
+      213: 3790020077440371142
+    second: korsar_olive_16
+  - first:
+      213: -1575353466948834266
+    second: korsar_olive_17
+  - first:
+      213: 8519202508593571530
+    second: korsar_olive_18
+  - first:
+      213: -1036229897929688891
+    second: korsar_olive_19
+  - first:
+      213: 6213048904686950016
+    second: korsar_olive_20
+  - first:
+      213: 8719429556609278875
+    second: korsar_olive_21
+  - first:
+      213: -3766250214115532849
+    second: korsar_olive_22
+  - first:
+      213: 9012550654236155995
+    second: korsar_olive_23
+  - first:
+      213: -5617805951480243041
+    second: korsar_olive_24
+  - first:
+      213: -5320717441509070853
+    second: korsar_olive_25
+  - first:
+      213: -2131475179494363384
+    second: korsar_olive_26
+  - first:
+      213: 2192126137534248355
+    second: korsar_olive_27
+  - first:
+      213: -7461463395951040852
+    second: korsar_olive_28
+  - first:
+      213: -3975021706864830990
+    second: korsar_olive_29
+  - first:
+      213: 7307615371550134750
+    second: korsar_olive_30
+  - first:
+      213: -3692361535319320876
+    second: korsar_olive_31
+  - first:
+      213: -2366823452761651590
+    second: korsar_olive_32
+  - first:
+      213: 4299539675008518158
+    second: korsar_olive_33
+  - first:
+      213: -8031218764197687184
+    second: korsar_olive_34
+  - first:
+      213: -5906139686887397650
+    second: korsar_olive_35
+  - first:
+      213: -5509221371787573419
+    second: korsar_olive_36
+  - first:
+      213: 8899713452277241281
+    second: korsar_olive_37
+  - first:
+      213: -3242655101274701226
+    second: korsar_olive_38
+  - first:
+      213: 4322191448872609299
+    second: korsar_olive_39
+  - first:
+      213: -6704023718793365233
+    second: korsar_olive_40
+  - first:
+      213: 4805151152828167881
+    second: korsar_olive_41
+  - first:
+      213: 6341942976728056069
+    second: korsar_olive_42
+  - first:
+      213: -1474120432270799144
+    second: korsar_olive_43
+  - first:
+      213: -1698676253892307060
+    second: korsar_olive_44
+  - first:
+      213: 40008491168404129
+    second: korsar_olive_45
+  - first:
+      213: -1840193761002916264
+    second: korsar_olive_46
+  - first:
+      213: -1315317972107039840
+    second: korsar_olive_47
+  - first:
+      213: -2167358346050270519
+    second: korsar_olive_48
+  - first:
+      213: 6494812466751762491
+    second: korsar_olive_49
+  - first:
+      213: -4886169761251559720
+    second: korsar_olive_50
+  - first:
+      213: 2865075831367434457
+    second: korsar_olive_51
+  - first:
+      213: -4792879324183381087
+    second: korsar_olive_52
+  - first:
+      213: 8297440474433169348
+    second: korsar_olive_53
+  - first:
+      213: 1340194746232110946
+    second: korsar_olive_54
+  - first:
+      213: 1066827134004131996
+    second: korsar_olive_55
+  - first:
+      213: -1178193993846147403
+    second: korsar_olive_56
+  - first:
+      213: 4862032557969950537
+    second: korsar_olive_57
+  - first:
+      213: 3570953467672474856
+    second: korsar_olive_58
+  - first:
+      213: 2779964657479099991
+    second: korsar_olive_59
+  - first:
+      213: -3284269856755260524
+    second: korsar_olive_60
+  - first:
+      213: -6595657215198671985
+    second: korsar_olive_61
+  - first:
+      213: -5889402755228166086
+    second: korsar_olive_62
+  - first:
+      213: -2157005357121062237
+    second: korsar_olive_63
+  - first:
+      213: 543363509921972478
+    second: korsar_olive_64
+  - first:
+      213: -5860210388019042750
+    second: korsar_olive_65
+  - first:
+      213: 3122409800079751885
+    second: korsar_olive_66
+  - first:
+      213: 8413252148738845275
+    second: korsar_olive_67
+  - first:
+      213: 7954216742906451891
+    second: korsar_olive_68
+  - first:
+      213: 34952363815441185
+    second: korsar_olive_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: korsar_olive_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb28f46802b6350800000000000000
+      internalID: 6010933888887733489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 435
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe00bd4a1546e8970800000000000000
+      internalID: 8759048627103138031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 443
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252d5c7d7e6e08cd0800000000000000
+      internalID: -2557790704914541998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 482
+        width: 71
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72248cf11a6ca81a0800000000000000
+      internalID: -6806409491491831257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 422
+        width: 8
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2de632ab28a51980800000000000000
+      internalID: -8568757810643931861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 472
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195698f2f8e531a0800000000000000
+      internalID: -6830297129587156709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 464
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2166469c9dfa7aab0800000000000000
+      internalID: -4996831911622711790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 465
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aabeb8a3c52c3b0800000000000000
+      internalID: -5493727188913247733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 456
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd13be27890dc5c0800000000000000
+      internalID: -4193685201803338254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 448
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e1befb3f9684260800000000000000
+      internalID: 7082026909657931423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 457
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f599a454970e33b0800000000000000
+      internalID: -5530974958707436041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 449
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5186f88fbdb377160800000000000000
+      internalID: 7023147959861602325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377af014778be3000800000000000000
+      internalID: 17654270888224627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 371
+        width: 24
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360a904f3aa6696d0800000000000000
+      internalID: -2984080450679889821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 413
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd788c2d24294640800000000000000
+      internalID: 5064619032394104270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 352
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1811ab4da9e8c0000800000000000000
+      internalID: 3534495365599617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 440
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c98e671e2bd89430800000000000000
+      internalID: 3790020077440371142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 417
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca5de4e58332ae0800000000000000
+      internalID: -1575353466948834266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 441
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6265e7b894a3670800000000000000
+      internalID: 8519202508593571530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 355
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8f244e5629e91f0800000000000000
+      internalID: -1036229897929688891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 373
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086def78f0f293650800000000000000
+      internalID: 6213048904686950016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 392
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93ecb5fbf2a10970800000000000000
+      internalID: 8719429556609278875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 102
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf976c72679bbbc0800000000000000
+      internalID: -3766250214115532849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 216
+        width: 96
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e5f9c113031d70800000000000000
+      internalID: 9012550654236155995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 333
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cd1f4604b8902b0800000000000000
+      internalID: -5617805951480243041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 336
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf760a46da30926b0800000000000000
+      internalID: -5320717441509070853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 346
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2da60e9a7b62e0800000000000000
+      internalID: -2131475179494363384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 338
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f3929b1ffb6e10800000000000000
+      internalID: 2192126137534248355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 320
+        width: 104
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca622cbe29e837890800000000000000
+      internalID: -7461463395951040852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 331
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5dad371d2e5d8c0800000000000000
+      internalID: -3975021706864830990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 304
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed11e68867dd96560800000000000000
+      internalID: 7307615371550134750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 323
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6d9f02fb812ccc0800000000000000
+      internalID: -3692361535319320876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7604141c9a572fd0800000000000000
+      internalID: -2366823452761651590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 276
+        width: 97
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08c492fd880bab30800000000000000
+      internalID: 4299539675008518158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 308
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709b8ec5116b8090800000000000000
+      internalID: -8031218764197687184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 296
+        width: 74
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee66d313f3d290ea0800000000000000
+      internalID: -5906139686887397650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 312
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5578c99f9505b83b0800000000000000
+      internalID: -5509221371787573419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 312
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c510cd6b32228b70800000000000000
+      internalID: 8899713452277241281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652c96f9d56cff2d0800000000000000
+      internalID: -3242655101274701226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 250
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316684909328bfb30800000000000000
+      internalID: 4322191448872609299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 194
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09378b72f586f2a0800000000000000
+      internalID: -6704023718793365233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 289
+        width: 69
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b164c3835fa240800000000000000
+      internalID: 4805151152828167881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501c8a9498b130850800000000000000
+      internalID: 6341942976728056069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de8a5ee64fda8be0800000000000000
+      internalID: -1474120432270799144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 207
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c879b5272f61d68e0800000000000000
+      internalID: -1698676253892307060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a29710c2832e8000800000000000000
+      internalID: 40008491168404129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 209
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f78d26815676e0800000000000000
+      internalID: -1840193761002916264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 210
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab6fd1f54d0fbde0800000000000000
+      internalID: -1315317972107039840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 210
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca02b2411ffbe1e0800000000000000
+      internalID: -2167358346050270519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 210
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30748b0785322a50800000000000000
+      internalID: 6494812466751762491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 208
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6785c7d76d03cb0800000000000000
+      internalID: -4886169761251559720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 208
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0863fe94bc2c720800000000000000
+      internalID: 2865075831367434457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 212
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3cbef5a54c7db0800000000000000
+      internalID: -4792879324183381087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 202
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7a987562e662370800000000000000
+      internalID: 8297440474433169348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_54
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 202
+        width: 7
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f72036504599210800000000000000
+      internalID: 1340194746232110946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 213
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98701740a12ece00800000000000000
+      internalID: 1066827134004131996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 213
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b63d401ec636afe0800000000000000
+      internalID: -1178193993846147403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 213
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947ce20f9d8697340800000000000000
+      internalID: 4862032557969950537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 213
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4311652439e8130800000000000000
+      internalID: 3570953467672474856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_59
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 232
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ae29802b649620800000000000000
+      internalID: 2779964657479099991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_60
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493649157fdeb62d0800000000000000
+      internalID: -3284269856755260524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_61
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 207
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b47d345b48774a0800000000000000
+      internalID: -6595657215198671985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 232
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a381b63c563a44ea0800000000000000
+      internalID: -5889402755228166086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 178
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa3f265e07c012e0800000000000000
+      internalID: -2157005357121062237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 210
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef00fc0cb3a6a8700800000000000000
+      internalID: 543363509921972478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 225
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246221963b95caea0800000000000000
+      internalID: -5860210388019042750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 209
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab3f08b27055b20800000000000000
+      internalID: 3122409800079751885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 204
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aee530140e1c470800000000000000
+      internalID: 8413252148738845275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 178
+        width: 13
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b757630cfd036e60800000000000000
+      internalID: 7954216742906451891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: korsar_olive_69
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 217
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123974d5dfc2c7000800000000000000
+      internalID: 34952363815441185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      korsar_olive_0: 6010933888887733489
+      korsar_olive_1: 8759048627103138031
+      korsar_olive_10: -5530974958707436041
+      korsar_olive_11: 7023147959861602325
+      korsar_olive_12: 17654270888224627
+      korsar_olive_13: -2984080450679889821
+      korsar_olive_14: 5064619032394104270
+      korsar_olive_15: 3534495365599617
+      korsar_olive_16: 3790020077440371142
+      korsar_olive_17: -1575353466948834266
+      korsar_olive_18: 8519202508593571530
+      korsar_olive_19: -1036229897929688891
+      korsar_olive_2: -2557790704914541998
+      korsar_olive_20: 6213048904686950016
+      korsar_olive_21: 8719429556609278875
+      korsar_olive_22: -3766250214115532849
+      korsar_olive_23: 9012550654236155995
+      korsar_olive_24: -5617805951480243041
+      korsar_olive_25: -5320717441509070853
+      korsar_olive_26: -2131475179494363384
+      korsar_olive_27: 2192126137534248355
+      korsar_olive_28: -7461463395951040852
+      korsar_olive_29: -3975021706864830990
+      korsar_olive_3: -6806409491491831257
+      korsar_olive_30: 7307615371550134750
+      korsar_olive_31: -3692361535319320876
+      korsar_olive_32: -2366823452761651590
+      korsar_olive_33: 4299539675008518158
+      korsar_olive_34: -8031218764197687184
+      korsar_olive_35: -5906139686887397650
+      korsar_olive_36: -5509221371787573419
+      korsar_olive_37: 8899713452277241281
+      korsar_olive_38: -3242655101274701226
+      korsar_olive_39: 4322191448872609299
+      korsar_olive_4: -8568757810643931861
+      korsar_olive_40: -6704023718793365233
+      korsar_olive_41: 4805151152828167881
+      korsar_olive_42: 6341942976728056069
+      korsar_olive_43: -1474120432270799144
+      korsar_olive_44: -1698676253892307060
+      korsar_olive_45: 40008491168404129
+      korsar_olive_46: -1840193761002916264
+      korsar_olive_47: -1315317972107039840
+      korsar_olive_48: -2167358346050270519
+      korsar_olive_49: 6494812466751762491
+      korsar_olive_5: -6830297129587156709
+      korsar_olive_50: -4886169761251559720
+      korsar_olive_51: 2865075831367434457
+      korsar_olive_52: -4792879324183381087
+      korsar_olive_53: 8297440474433169348
+      korsar_olive_54: 1340194746232110946
+      korsar_olive_55: 1066827134004131996
+      korsar_olive_56: -1178193993846147403
+      korsar_olive_57: 4862032557969950537
+      korsar_olive_58: 3570953467672474856
+      korsar_olive_59: 2779964657479099991
+      korsar_olive_6: -4996831911622711790
+      korsar_olive_60: -3284269856755260524
+      korsar_olive_61: -6595657215198671985
+      korsar_olive_62: -5889402755228166086
+      korsar_olive_63: -2157005357121062237
+      korsar_olive_64: 543363509921972478
+      korsar_olive_65: -5860210388019042750
+      korsar_olive_66: 3122409800079751885
+      korsar_olive_67: 8413252148738845275
+      korsar_olive_68: 7954216742906451891
+      korsar_olive_69: 34952363815441185
+      korsar_olive_7: -5493727188913247733
+      korsar_olive_8: -4193685201803338254
+      korsar_olive_9: 7082026909657931423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

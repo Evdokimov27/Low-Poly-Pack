@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: e9dee40a5b416324d882462c82e2f8e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3154281108558992327
+    second: iotvolive_0
+  - first:
+      213: 7065462280598782886
+    second: iotvolive_1
+  - first:
+      213: 8654345708928333397
+    second: iotvolive_2
+  - first:
+      213: 3734791279797097577
+    second: iotvolive_3
+  - first:
+      213: -766477540332950142
+    second: iotvolive_4
+  - first:
+      213: -3421295388842842532
+    second: iotvolive_5
+  - first:
+      213: 664287182673568267
+    second: iotvolive_6
+  - first:
+      213: 155610673744062463
+    second: iotvolive_7
+  - first:
+      213: -7980682303007136015
+    second: iotvolive_8
+  - first:
+      213: -5055709152673942414
+    second: iotvolive_9
+  - first:
+      213: 3848358281277461459
+    second: iotvolive_10
+  - first:
+      213: -16374088820177700
+    second: iotvolive_11
+  - first:
+      213: 8253238682026287193
+    second: iotvolive_12
+  - first:
+      213: 4248299305482746022
+    second: iotvolive_13
+  - first:
+      213: -6737414638214526696
+    second: iotvolive_14
+  - first:
+      213: 73132395459012193
+    second: iotvolive_15
+  - first:
+      213: 4161549388794917207
+    second: iotvolive_16
+  - first:
+      213: 1625898589080059109
+    second: iotvolive_17
+  - first:
+      213: 1923901048903327193
+    second: iotvolive_18
+  - first:
+      213: -1727042558971256124
+    second: iotvolive_19
+  - first:
+      213: -7222283868380180923
+    second: iotvolive_20
+  - first:
+      213: 7159247546008336529
+    second: iotvolive_21
+  - first:
+      213: -1468780308629019426
+    second: iotvolive_22
+  - first:
+      213: -3331030280887432962
+    second: iotvolive_23
+  - first:
+      213: -4240030618891631515
+    second: iotvolive_24
+  - first:
+      213: -1744082876006470862
+    second: iotvolive_25
+  - first:
+      213: -2405753564210219868
+    second: iotvolive_26
+  - first:
+      213: -6667172420931092059
+    second: iotvolive_27
+  - first:
+      213: -6480392063679802373
+    second: iotvolive_28
+  - first:
+      213: -8740485785602656963
+    second: iotvolive_29
+  - first:
+      213: 2842497684175005591
+    second: iotvolive_30
+  - first:
+      213: 3641551974588153143
+    second: iotvolive_31
+  - first:
+      213: 5573923076258630301
+    second: iotvolive_32
+  - first:
+      213: 3750693128683198005
+    second: iotvolive_33
+  - first:
+      213: 8865673155257348545
+    second: iotvolive_34
+  - first:
+      213: 855956158870201510
+    second: iotvolive_35
+  - first:
+      213: -737083709481896663
+    second: iotvolive_36
+  - first:
+      213: -1941805008599401335
+    second: iotvolive_37
+  - first:
+      213: 7078022614060746284
+    second: iotvolive_38
+  - first:
+      213: -5063055487840350242
+    second: iotvolive_39
+  - first:
+      213: 3268457705205814050
+    second: iotvolive_40
+  - first:
+      213: -741000394109580482
+    second: iotvolive_41
+  - first:
+      213: 6332356442348390276
+    second: iotvolive_42
+  - first:
+      213: 1544609127112684774
+    second: iotvolive_43
+  - first:
+      213: -894439358722231651
+    second: iotvolive_44
+  - first:
+      213: 2249438431885720572
+    second: iotvolive_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iotvolive_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c35265c4f146cb20800000000000000
+      internalID: 3154281108558992327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 233
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3030182809d0260800000000000000
+      internalID: 7065462280598782886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 236
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5567910d1996a1870800000000000000
+      internalID: 8654345708928333397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 240
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964588691e4a4d330800000000000000
+      internalID: 3734791279797097577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 237
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da320fcbcec55f0800000000000000
+      internalID: -766477540332950142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 245
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56275c78fd1580d0800000000000000
+      internalID: -3421295388842842532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 233
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026a105ca5083900800000000000000
+      internalID: 664287182673568267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 238
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff726c35517d82200800000000000000
+      internalID: 155610673744062463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 216
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f663089abbee3190800000000000000
+      internalID: -7980682303007136015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274bd2bdf4386d9b0800000000000000
+      internalID: -5055709152673942414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 181
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d9f3a77d186530800000000000000
+      internalID: 3848358281277461459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 217
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd44a5c5ad3d5cff0800000000000000
+      internalID: -16374088820177700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 234
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950a0b09ad4698270800000000000000
+      internalID: 8253238682026287193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a876dab5bdf4fa30800000000000000
+      internalID: 4248299305482746022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 209
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819c4b83515ef72a0800000000000000
+      internalID: -6737414638214526696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 209
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16668e4b681d30100800000000000000
+      internalID: 73132395459012193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 202
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7517d5ace1bc0c930800000000000000
+      internalID: 4161549388794917207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 217
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecfce2072a509610800000000000000
+      internalID: 1625898589080059109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd52ea8fc113ba10800000000000000
+      internalID: 1923901048903327193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 165
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2698061ff4808e0800000000000000
+      internalID: -1727042558971256124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 169
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e4a26461b45cb90800000000000000
+      internalID: -7222283868380180923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 189
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f9e636b1ca5360800000000000000
+      internalID: 7159247546008336529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 186
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4241b5718dd9be0800000000000000
+      internalID: -1468780308629019426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 173
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef882abab9dc5c1d0800000000000000
+      internalID: -3331030280887432962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5644f24ed926825c0800000000000000
+      internalID: -4240030618891631515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 170
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23beac46dd5cbc7e0800000000000000
+      internalID: -1744082876006470862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 126
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4be1c21eb0d9ed0800000000000000
+      internalID: -2405753564210219868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 138
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a10f12e1027973a0800000000000000
+      internalID: -6667172420931092059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 150
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3da1fa0c50116a0800000000000000
+      internalID: -6480392063679802373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357dc0bc7e83b680800000000000000
+      internalID: -8740485785602656963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7972f146594927720800000000000000
+      internalID: 2842497684175005591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df2742a34698230800000000000000
+      internalID: 3641551974588153143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a8fb5818d8a5d40800000000000000
+      internalID: 5573923076258630301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53619ac47832d0430800000000000000
+      internalID: 3750693128683198005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1b4d923c2390b70800000000000000
+      internalID: 8865673155257348545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 114
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a424c86797f0eb00800000000000000
+      internalID: 855956158870201510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 62
+        width: 116
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925ba9e754a55c5f0800000000000000
+      internalID: -737083709481896663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cbb5ff1a25d05e0800000000000000
+      internalID: -1941805008599401335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26c54701103a3260800000000000000
+      internalID: 7078022614060746284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 89
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0f29ebd96cb9b0800000000000000
+      internalID: -5063055487840350242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 60
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235e2247f4eb5d20800000000000000
+      internalID: 3268457705205814050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 93
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8caa411077b5f0800000000000000
+      internalID: -741000394109580482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 93
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487055152ac01e750800000000000000
+      internalID: 6332356442348390276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 61
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4b06241dd8f6510800000000000000
+      internalID: 1544609127112684774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 62
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92bb3664205693f0800000000000000
+      internalID: -894439358722231651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iotvolive_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 63
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf8a4f55c973f10800000000000000
+      internalID: 2249438431885720572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      iotvolive_0: 3154281108558992327
+      iotvolive_1: 7065462280598782886
+      iotvolive_10: 3848358281277461459
+      iotvolive_11: -16374088820177700
+      iotvolive_12: 8253238682026287193
+      iotvolive_13: 4248299305482746022
+      iotvolive_14: -6737414638214526696
+      iotvolive_15: 73132395459012193
+      iotvolive_16: 4161549388794917207
+      iotvolive_17: 1625898589080059109
+      iotvolive_18: 1923901048903327193
+      iotvolive_19: -1727042558971256124
+      iotvolive_2: 8654345708928333397
+      iotvolive_20: -7222283868380180923
+      iotvolive_21: 7159247546008336529
+      iotvolive_22: -1468780308629019426
+      iotvolive_23: -3331030280887432962
+      iotvolive_24: -4240030618891631515
+      iotvolive_25: -1744082876006470862
+      iotvolive_26: -2405753564210219868
+      iotvolive_27: -6667172420931092059
+      iotvolive_28: -6480392063679802373
+      iotvolive_29: -8740485785602656963
+      iotvolive_3: 3734791279797097577
+      iotvolive_30: 2842497684175005591
+      iotvolive_31: 3641551974588153143
+      iotvolive_32: 5573923076258630301
+      iotvolive_33: 3750693128683198005
+      iotvolive_34: 8865673155257348545
+      iotvolive_35: 855956158870201510
+      iotvolive_36: -737083709481896663
+      iotvolive_37: -1941805008599401335
+      iotvolive_38: 7078022614060746284
+      iotvolive_39: -5063055487840350242
+      iotvolive_4: -766477540332950142
+      iotvolive_40: 3268457705205814050
+      iotvolive_41: -741000394109580482
+      iotvolive_42: 6332356442348390276
+      iotvolive_43: 1544609127112684774
+      iotvolive_44: -894439358722231651
+      iotvolive_45: 2249438431885720572
+      iotvolive_5: -3421295388842842532
+      iotvolive_6: 664287182673568267
+      iotvolive_7: 155610673744062463
+      iotvolive_8: -7980682303007136015
+      iotvolive_9: -5055709152673942414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
