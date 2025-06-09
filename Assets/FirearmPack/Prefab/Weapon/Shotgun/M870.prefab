@@ -299,7 +299,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 49
+  m_VersionIndex: 55
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -603,7 +603,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 49
+  m_VersionIndex: 55
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -926,7 +926,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 49
+  m_VersionIndex: 55
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -2320,7 +2320,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 49
+  m_VersionIndex: 55
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -17139,7 +17139,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 57
+  m_VersionIndex: 63
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -17444,7 +17444,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 49
+  m_VersionIndex: 55
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -17500,13 +17500,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3995637ea1475e64a8a0449bd562e37c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  magazine: {fileID: 0}
+  isSelected: 0
+  magazine: {fileID: 2277714862913297175}
+  additional_magazine: {fileID: 0}
   sight: {fileID: 0}
   grip: {fileID: 0}
   muzzle: {fileID: 0}
   baseRecoil: 5
+  totalRecoil: 5
+  recoilReturnSpeed: 5
+  isActive: 0
   playerCamera: {fileID: 0}
   firePoint: {fileID: 0}
+  supportedMagazineTypes: 18000000
 --- !u!1 &7186889736297828704
 GameObject:
   m_ObjectHideFlags: 0
@@ -17519,6 +17525,7 @@ GameObject:
   - component: {fileID: 6791030865603738081}
   - component: {fileID: 1931023487400023530}
   - component: {fileID: 5893732239685012695}
+  - component: {fileID: 2277714862913297175}
   m_Layer: 0
   m_Name: pump_22
   m_TagString: Untagged
@@ -21610,11 +21617,26 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 49
+  m_VersionIndex: 55
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!114 &2277714862913297175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7186889736297828704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0c9fcdb949e9e54088b567ac7d8bdfe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magazineType: 24
+  maxAmmo: 8
+  currentAmmo: 0
 --- !u!1001 &223311481768163262
 PrefabInstance:
   m_ObjectHideFlags: 0

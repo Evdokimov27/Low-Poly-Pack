@@ -1,21 +1,28 @@
 using UnityEngine;
 using System.IO;
+using System.Collections;
 
 public class ScreenshotCapture : MonoBehaviour
 {
+	public GameObject canvas;
 	public KeyCode screenshotKey = KeyCode.K;
-	public int resolutionMultiplier = 1; // 1 = текущий размер экрана
+	public int resolutionMultiplier = 1;
 
 	private void Update()
 	{
 		if (Input.GetKeyDown(screenshotKey))
 		{
-			TakeScreenshot();
+			StartCoroutine(TakeScreenshotRoutine());
 		}
 	}
 
-	void TakeScreenshot()
+	private IEnumerator TakeScreenshotRoutine()
 	{
+		if (canvas != null)
+			canvas.SetActive(false);
+
+		yield return new WaitForEndOfFrame();
+
 		string folderPath = Path.Combine(Application.dataPath, "../Assets/Screenshots");
 		if (!Directory.Exists(folderPath))
 			Directory.CreateDirectory(folderPath);
@@ -25,6 +32,10 @@ public class ScreenshotCapture : MonoBehaviour
 		string fullPath = Path.Combine(folderPath, filename);
 
 		ScreenCapture.CaptureScreenshot(fullPath, resolutionMultiplier);
-		Debug.Log($"Скриншот сохранён: {fullPath}");
+
+		yield return new WaitForEndOfFrame();
+
+		if (canvas != null)
+			canvas.SetActive(true);
 	}
 }

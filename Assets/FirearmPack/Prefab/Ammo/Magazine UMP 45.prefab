@@ -317,4 +317,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0c9fcdb949e9e54088b567ac7d8bdfe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxAmmo: 30
+  magazineType: 4
+  maxAmmo: 25
+  currentAmmo: 0
