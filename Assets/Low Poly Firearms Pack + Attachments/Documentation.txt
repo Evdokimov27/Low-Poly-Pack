@@ -1,0 +1,86 @@
+Low Poly Firearms Pack – Documentation
+Offline Setup & Usage Guide
+
+📑 Table of Contents
+Overview
+
+Installation
+
+Modular Construction
+
+How to Use
+
+Firearm Configuration
+
+Customization (Attachments & Fire Modes)
+
+Bullet & Ballistics System
+
+1. 📌 Overview
+This pack includes modular low poly firearms with attachable scopes, grips, suppressors, and magazines. It also contains ballistic scripts, recoil handling, and shooting logic. Perfect for stylized, mobile, VR, or FPS projects.
+
+2. 🛠 Installation
+Drag the entire folder into your Unity project.
+
+Drop the desired prefab into your scene.
+
+Use the Weapon.cs component to enable shooting functionality.
+
+3. 🧩 Modular Construction
+Each firearm prefab is structured as follows:
+
+Root Object
+
+_cb_firepoint – Bullet spawn point
+
+_cb_suppressor_1 – Muzzle attachment point
+
+_cb_grip_1 – Grip attachment point
+
+_cb_canted_1 – Sight attachment point
+
+_cb_magazine_1 – Magazine attachment point
+
+These points are used to connect compatible modular components.
+
+4. 🎮 How to Use
+Drag a firearm prefab into your scene.
+
+Enable isSelected in the Weapon.cs component to activate control.
+
+Assign the required module references in the Modules section using the child objects of the prefab.
+
+5. 🎯 Firearm Configuration
+Select the prefab in the scene.
+
+Open the RecoilHandler component and adjust recoil parameters to match the weapon's behavior.
+
+You can fine-tune intensity, aim multipliers, and recoil direction.
+
+6. 🧱 Customization (Attachments & Fire Modes)
+Choose and assign modular attachments such as sights, grips, and suppressors.
+
+Supported fire modes: Single, Burst, Auto, and Bolt.
+
+Configure available fire modes via the Weapon.cs inspector (supportedFireModes list).
+
+7. 🔬 Bullet & Ballistics System
+To modify bullet physics, open the Bullet prefab and adjust:
+
+Trajectory Curve:
+
+X-axis: Distance
+
+Y-axis: Flight angle (in degrees)
+
+Controls bullet drop over range.
+
+Speed Curve:
+
+X-axis: Distance
+
+Y-axis: Speed (units/second)
+
+Controls bullet velocity at each segment of its path.
+
+This allows for realistic or stylized projectile behavior that matches your game's needs.

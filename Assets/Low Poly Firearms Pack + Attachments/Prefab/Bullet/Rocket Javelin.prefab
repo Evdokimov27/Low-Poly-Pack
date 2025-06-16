@@ -1140,6 +1140,10 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   maxRangeBullet: 300
+  pelletCount: 1
+  maxSpreadAngle: 5
+  speedVariationPercent: 0.1
+  spreadStartDistance: 0
 --- !u!54 &7981301053614297591
 Rigidbody:
   m_ObjectHideFlags: 0

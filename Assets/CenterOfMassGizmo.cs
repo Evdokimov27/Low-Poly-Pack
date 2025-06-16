@@ -1,27 +1,65 @@
-using UnityEngine;
+п»їusing UnityEngine;
+using UnityEditor;
+using System.IO;
 
-[RequireComponent(typeof(Rigidbody))]
-public class CenterOfMassGizmo : MonoBehaviour
+public class RemoveLeadingUnderscores : EditorWindow
 {
-	public Color gizmoColor = Color.red;
-	public float gizmoSize = 0.1f;
+	private string rootPath = "Assets/";
 
-	private Rigidbody rb;
-
-	void OnDrawGizmos()
+	[MenuItem("Tools/Cleanup/Remove Leading Underscores")]
+	public static void ShowWindow()
 	{
-		if (rb == null)
-			rb = GetComponent<Rigidbody>();
+		GetWindow<RemoveLeadingUnderscores>("Remove _ Prefix");
+	}
 
-		Gizmos.color = gizmoColor;
+	void OnGUI()
+	{
+		GUILayout.Label("Remove '_' prefix from all files and folders", EditorStyles.boldLabel);
+		rootPath = EditorGUILayout.TextField("Root Folder", rootPath);
 
-		// Центр масс в мировых координатах
-		Vector3 worldCenterOfMass = rb.worldCenterOfMass;
+		if (GUILayout.Button("Start Cleanup"))
+		{
+			if (Directory.Exists(rootPath))
+			{
+				RenameAllRecursive(rootPath);
+				AssetDatabase.Refresh();
+				Debug.Log("вњ… Cleanup completed.");
+			}
+			else
+			{
+				Debug.LogError("вќЊ Path not found: " + rootPath);
+			}
+		}
+	}
 
-		// Рисуем сферу в центре масс
-		Gizmos.DrawSphere(worldCenterOfMass, gizmoSize);
+	static void RenameAllRecursive(string path)
+	{
+		// Р РµРєСѓСЂСЃРёРІРЅРѕ РїРµСЂРµС…РѕРґРёРј РїРѕ РїРѕРґРїР°РїРєР°Рј
+		foreach (string subDir in Directory.GetDirectories(path))
+		{
+			RenameAllRecursive(subDir);
+		}
 
-		// (Необязательно) Линия от объекта до центра масс
-		Gizmos.DrawLine(transform.position, worldCenterOfMass);
+		// РџРµСЂРµРёРјРµРЅРѕРІР°РЅРёРµ С„Р°Р№Р»РѕРІ
+		foreach (string filePath in Directory.GetFiles(path))
+		{
+			string fileName = Path.GetFileName(filePath);
+			if (fileName.StartsWith("_"))
+			{
+				string newFileName = fileName.TrimStart('_');
+				string newPath = Path.Combine(Path.GetDirectoryName(filePath), newFileName);
+				AssetDatabase.MoveAsset(filePath.Replace("\\", "/"), newPath.Replace("\\", "/"));
+			}
+		}
+
+		// РџРµСЂРµРёРјРµРЅРѕРІР°РЅРёРµ РїР°РїРѕРє
+		string folderName = Path.GetFileName(path);
+		if (folderName.StartsWith("_"))
+		{
+			string parent = Path.GetDirectoryName(path);
+			string newFolderName = folderName.TrimStart('_');
+			string newFolderPath = Path.Combine(parent, newFolderName);
+			AssetDatabase.MoveAsset(path.Replace("\\", "/"), newFolderPath.Replace("\\", "/"));
+		}
 	}
 }

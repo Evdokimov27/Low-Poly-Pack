@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -403,6 +403,10 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   maxRangeBullet: 150
+  pelletCount: 1
+  maxSpreadAngle: 5
+  speedVariationPercent: 0.1
+  spreadStartDistance: 0
 --- !u!54 &-4672605042773467394
 Rigidbody:
   m_ObjectHideFlags: 0

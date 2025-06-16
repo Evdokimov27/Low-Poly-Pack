@@ -31,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -512,8 +512,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
-      time: 4.0653076
-      value: 0.593547
+      time: -42.705383
+      value: -0.49927032
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -521,8 +521,8 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 103.46355
-      value: 3.1107564
+      time: 64.82359
+      value: -0.35085058
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -530,31 +530,31 @@ MonoBehaviour:
       inWeight: 0
       outWeight: 0
     - serializedVersion: 3
-      time: 302.26
-      value: 0.593547
-      inSlope: 0
-      outSlope: 0
+      time: 359.49915
+      value: -1.3777368
+      inSlope: -0.007053545
+      outSlope: -0.007053545
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
-      outWeight: 0
+      inWeight: 0.41866767
+      outWeight: 1
     - serializedVersion: 3
-      time: 600.4547
-      value: -9.47529
-      inSlope: 0
-      outSlope: 0
+      time: 751.4605
+      value: -7.7516336
+      inSlope: -0.031117354
+      outSlope: -0.031117354
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
-      outWeight: 0
+      inWeight: 0.11607273
+      outWeight: 0.4153428
     - serializedVersion: 3
-      time: 998.04767
-      value: -49.75064
-      inSlope: 0
-      outSlope: 0
+      time: 2017.2272
+      value: -50.183163
+      inSlope: -0.06489068
+      outSlope: -0.06489068
       tangentMode: 0
       weightedMode: 0
-      inWeight: 0
+      inWeight: 0.2052743
       outWeight: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
@@ -601,7 +601,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  maxRangeBullet: 1500
+  maxRangeBullet: 2000
   pelletCount: 1
   maxSpreadAngle: 5
   speedVariationPercent: 0.1
