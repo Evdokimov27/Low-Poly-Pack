@@ -1,16 +1,18 @@
 using UnityEngine;
+
 namespace LowPolyFirearms.WeaponSystem
 {
 	public class Sight : MonoBehaviour
 	{
-		[Header("Setting Zoom")]
-		public float maxZoom = 100f;
-		public float minZoom = 10f;
+		[Header("Zoom Settings")]
+		[Tooltip("Max level zoom")]
+		public float maxZoom = 4f;
 
-		[Range(0f, 1f)]
-		public float currentZoom = 1f;
+		[Tooltip("The step of changing the zoom (for example, 0.25 = 1.25, x1.5...)")]
+		public float zoomStep = 0.25f;
 
-		public float zoomSpeed = 0.1f;
+		[Tooltip("Current level zoom (x1 — no zoom)")]
+		public float zoomLevel = 1f;
 
 		private AutoScopeRender zoom;
 
@@ -19,24 +21,24 @@ namespace LowPolyFirearms.WeaponSystem
 			zoom = GetComponentInChildren<AutoScopeRender>();
 			if (zoom != null)
 			{
-				currentZoom = 1;
-				zoom.maxZoom = maxZoom;
-				zoom.minZoom = minZoom;
+				zoom.zoomLevel = zoomLevel;
+				zoom.ApplyZoom();
 			}
 		}
 
 		public void ToggleAiming()
 		{
 			float scroll = Input.GetAxis("Mouse ScrollWheel");
+
 			if (Mathf.Abs(scroll) > 0.01f)
 			{
-				currentZoom -= scroll * zoomSpeed;
-				currentZoom = Mathf.Clamp01(currentZoom);
+				zoomLevel += scroll > 0 ? zoomStep : -zoomStep;
+				zoomLevel = Mathf.Clamp(zoomLevel, 1f, maxZoom);
 			}
 
 			if (zoom != null)
 			{
-				zoom.zoomLerp = currentZoom;
+				zoom.zoomLevel = zoomLevel;
 				zoom.ApplyZoom();
 			}
 		}

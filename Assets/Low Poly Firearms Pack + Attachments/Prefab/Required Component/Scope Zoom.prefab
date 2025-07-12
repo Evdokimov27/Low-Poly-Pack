@@ -213,9 +213,8 @@ MonoBehaviour:
   textureWidth: 256
   textureHeight: 256
   textureFormat: 0
-  minZoom: 20
-  maxZoom: 100
-  zoomLerp: 1
+  baseFOV: 30
+  zoomLevel: 1
 --- !u!222 &9170893465768942833
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -290,7 +289,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 100
+  field of view: 30
   orthographic: 0
   orthographic size: 5
   m_Depth: 0

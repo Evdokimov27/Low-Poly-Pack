@@ -4,6 +4,7 @@ namespace LowPolyFirearms.WeaponSystem
 {
 	public class TestGun : MonoBehaviour
 	{
+		public Camera aimCamera;
 		public List<Camera> cameras = new List<Camera>();
 		public List<Weapon> weapons = new List<Weapon>();
 
@@ -14,12 +15,23 @@ namespace LowPolyFirearms.WeaponSystem
 
 		public void ActivateCamera(int index)
 		{
+			
 			for (int i = 0; i < cameras.Count; i++)
 			{
-				if (cameras[i] != null)
+				if (index != 5)
 				{
-					cameras[i].enabled = (i == index);
+					if (cameras[i] != null)
+					{
+						cameras[i].enabled = (i == index);
+					}
+					aimCamera.enabled = false;
+
 				}
+				else
+				{
+					aimCamera.enabled = true;
+				}
+			
 			}
 		}
 

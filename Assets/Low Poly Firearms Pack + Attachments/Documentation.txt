@@ -60,9 +60,26 @@ You can fine-tune intensity, aim multipliers, and recoil direction.
 6. 🧱 Customization (Attachments & Fire Modes)
 Choose and assign modular attachments such as sights, grips, and suppressors.
 
-Supported fire modes: Single, Burst, Auto, and Bolt.
+Sights: Edit the Sight script to the scope prefab and AutoScopeRender to its child object.
+Assign:
 
-Configure available fire modes via the Weapon.cs inspector (supportedFireModes list).
+scopeCamera: dedicated camera for zoom view,
+rawImage: UI image for display,
+baseFOV: FOV at x1 (default 60),
+maxZoom: maximum zoom level (e.g. 4 for x4),
+zoomStep: scroll zoom increment.
+
+Use the scroll wheel to zoom while aiming.
+The field of view is dynamically calculated as:
+fieldOfView = baseFOV / zoomLevel
+Grips: Affect recoil via Grip.cs. Lower recoilMultiplier = more stability.
+
+Suppressors: Reduce flash and modify recoil via Muzzle.cs.
+
+Magazines: Set bullet type and ammo capacity in Magazine.cs.
+
+Supported fire modes: Single, Burst, Auto, and Bolt.
+Configure available fire modes via the supportedFireModes list in Weapon.cs.
 
 7. 🔬 Bullet & Ballistics System
 To modify bullet physics, open the Bullet prefab and adjust:

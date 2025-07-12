@@ -1,3 +1,4 @@
+using NUnit.Framework.Internal;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -13,10 +14,12 @@ namespace LowPolyFirearms.WeaponSystem
 
 		[Header("Can Shoot?")]
 		public bool isSelected = false;
-		[Header("Draw Trajectory Bullet?")]
+		[Header("Draw a bullet trajectory?")]
 		public bool drawTrajectory = false;
 		public Color colorTrajectory = Color.blue;
-
+		[Header("Draw a bullet trail after shoot?")]
+		[SerializeField] private bool showTrail = false;
+		[SerializeField] private Color colorTrail = Color.white;
 		[Header("Modules")]
 		public Magazine magazine;
 		public Magazine additionalMagazine;
@@ -57,9 +60,22 @@ namespace LowPolyFirearms.WeaponSystem
 			if (recoilHandler != null)
 				recoilHandler.Initialize(transform);
 
-
+			Reload();
 		}
-
+		[ContextMenu("Test GetMag")]
+		public void Reload()
+		{
+			if(magazine == null) magazine = HasMagazine();
+		}
+		public Magazine HasMagazine()
+		{
+			var magazineParent = transform.Find("_—Åb_magazine_1");
+			if (magazineParent.transform.childCount > 0)
+			{
+				return magazineParent.GetComponentInChildren<Magazine>();
+			}
+			return null;
+		}
 		void Update()
 		{
 			if (!isSelected || IsUIClick()) return;
@@ -167,6 +183,7 @@ namespace LowPolyFirearms.WeaponSystem
 			{
 				Vector3 direction = firePoint.forward;
 				GameObject bulletGO = Instantiate(bulletToFire.gameObject, firePoint.position, Quaternion.LookRotation(direction));
+				ApplyBulletTrail(bulletGO);
 				if (bulletGO.TryGetComponent<Bullet>(out var bullet))
 					bullet.InitializeDirection(direction);
 				Destroy(bulletGO, 15f);
@@ -188,6 +205,18 @@ namespace LowPolyFirearms.WeaponSystem
 			PlayFireSound();
 		}
 
+		private void ApplyBulletTrail(GameObject bulletGO)
+		{
+			if (!showTrail || bulletGO == null) return;
+
+			var trail = bulletGO.AddComponent<TrailRenderer>();
+			trail.time = 0.2f;
+			trail.startWidth = 0.05f;
+			trail.endWidth = 0.01f;
+			trail.material = new Material(Shader.Find("Sprites/Default"));
+			trail.startColor = colorTrail;
+			trail.endColor = new Color(1f, 1f, 1f, 0f);
+		}
 		private void SwitchFireMode()
 		{
 			if (supportedFireModes == null || supportedFireModes.Count == 0) return;
@@ -224,8 +253,8 @@ namespace LowPolyFirearms.WeaponSystem
 			EnableRandomChild("_cb_canted_1", ref sight);
 			EnableRandomChild("_cb_grip_1", ref grip);
 			EnableRandomChild("_cb_suppressor_1", ref muzzle);
-			EnableRandomChild("_Òb_magazine_1", ref magazine);
-			EnableRandomChild("_Òb_magazine_add", ref additionalMagazine);
+			EnableRandomChild("_—Åb_magazine_1", ref magazine);
+			EnableRandomChild("_—Åb_magazine_add", ref additionalMagazine);
 		}
 		private void EnableRandomChild<T>(string parentName, ref T result, bool disableOthers = true) where T : Component
 		{

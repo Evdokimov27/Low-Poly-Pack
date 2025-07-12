@@ -5,14 +5,14 @@ namespace LowPolyFirearms.WeaponSystem
 	public class RecoilHandler : MonoBehaviour
 	{
 		[Header("Recoil Amount")]
-		public float verticalRecoilMin = 1f;
-		public float verticalRecoilMax = 3f;
-		public float horizontalRecoilMin = -1f;
-		public float horizontalRecoilMax = 1f;
+		public float recoilPerShotVerticalMin = -3f;
+		public float recoilPerShotVerticalMax = 3f;
+		public float recoilPerShotHorizontalMin = -1f;
+		public float recoilPerShotHorizontalMax = 1f;
 
 		[Header("Clamping")]
-		public float maxVerticalRecoil = 10f;
-		public float maxHorizontalRecoil = 5f;
+		public float maxAccumulatedVerticalRecoil = 5f;
+		public float maxAccumulatedHorizontalRecoil = 5f;
 
 
 		[Header("Timing")]
@@ -49,14 +49,14 @@ namespace LowPolyFirearms.WeaponSystem
 		public void TriggerRecoil(float scale)
 		{
 
-			float vertical = Random.Range(verticalRecoilMin, verticalRecoilMax) * scale;
-			float horizontal = Random.Range(horizontalRecoilMin, horizontalRecoilMax) * scale;
+			float vertical = Random.Range(recoilPerShotVerticalMin, recoilPerShotVerticalMax) * scale;
+			float horizontal = Random.Range(recoilPerShotVerticalMin, recoilPerShotVerticalMax) * scale;
 
 			Vector2 newRecoil = new Vector2(vertical, horizontal);
 			accumulatedRecoil += newRecoil;
 
-			accumulatedRecoil.x = Mathf.Clamp(accumulatedRecoil.x, -maxVerticalRecoil, maxVerticalRecoil);
-			accumulatedRecoil.y = Mathf.Clamp(accumulatedRecoil.y, -maxHorizontalRecoil, maxHorizontalRecoil);
+			accumulatedRecoil.x = Mathf.Clamp(accumulatedRecoil.x, -maxAccumulatedVerticalRecoil, maxAccumulatedVerticalRecoil);
+			accumulatedRecoil.y = Mathf.Clamp(accumulatedRecoil.y, -maxAccumulatedHorizontalRecoil, maxAccumulatedHorizontalRecoil);
 
 			attackTimer = 0f;
 			returnTimer = 0f;
