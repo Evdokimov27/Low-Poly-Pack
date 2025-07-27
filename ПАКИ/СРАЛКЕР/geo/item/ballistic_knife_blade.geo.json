@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 0.5, 0]
+			},
+			"bones": [
+				{
+					"name": "BLADE",
+					"pivot": [0.8138, 13.04202, 0.10515],
+					"cubes": [
+						{
+							"origin": [0, -13, -1.5],
+							"size": [0, 26, 3],
+							"uv": {
+								"north": {"uv": [10, 0], "uv_size": [0, 26]},
+								"east": {"uv": [7, 0], "uv_size": [3, 26]},
+								"south": {"uv": [13, 0], "uv_size": [0, 26]},
+								"west": {"uv": [0, 0], "uv_size": [7, 64]},
+								"up": {"uv": [10, -3], "uv_size": [0, 3]},
+								"down": {"uv": [10, 0], "uv_size": [0, -3]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

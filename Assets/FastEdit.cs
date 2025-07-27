@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+п»їusing System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
@@ -10,7 +10,7 @@ public class ProBuilderMergeShortcut
 		bool success = EditorApplication.ExecuteMenuItem("Tools/ProBuilder/Object/Merge Objects");
 
 		if (!success)
-			Debug.LogWarning("Не удалось выполнить команду слияния. Убедись, что установлены ProBuilder и выбраны объекты ProBuilder.");
+			Debug.LogWarning("РќРµ СѓРґР°Р»РѕСЃСЊ РІС‹РїРѕР»РЅРёС‚СЊ РєРѕРјР°РЅРґСѓ СЃР»РёСЏРЅРёСЏ. РЈР±РµРґРёСЃСЊ, С‡С‚Рѕ СѓСЃС‚Р°РЅРѕРІР»РµРЅС‹ ProBuilder Рё РІС‹Р±СЂР°РЅС‹ РѕР±СЉРµРєС‚С‹ ProBuilder.");
 	}
 
 	[MenuItem("Tools/ProBuilder/Force Builderize Selected %#k")] // Ctrl+Shift+K
@@ -19,7 +19,7 @@ public class ProBuilderMergeShortcut
 		bool success = EditorApplication.ExecuteMenuItem("Tools/ProBuilder/Object/Pro Builderize");
 
 		if (!success)
-			Debug.LogWarning("Не удалось выполнить команду слияния.");
+			Debug.LogWarning("РќРµ СѓРґР°Р»РѕСЃСЊ РІС‹РїРѕР»РЅРёС‚СЊ РєРѕРјР°РЅРґСѓ СЃР»РёСЏРЅРёСЏ.");
 	}
 
 	[MenuItem("Tools/ProBuilder/Export Selected Hierarchy %#p")] // Ctrl+Shift+P
@@ -29,7 +29,7 @@ public class ProBuilderMergeShortcut
 
 		if (active == null)
 		{
-			Debug.LogWarning("Не выбран корневой объект для экспорта.");
+			Debug.LogWarning("РќРµ РІС‹Р±СЂР°РЅ РєРѕСЂРЅРµРІРѕР№ РѕР±СЉРµРєС‚ РґР»СЏ СЌРєСЃРїРѕСЂС‚Р°.");
 			return;
 		}
 
@@ -45,7 +45,7 @@ public class ProBuilderMergeShortcut
 		bool success = EditorApplication.ExecuteMenuItem("Tools/ProBuilder/Export/Export Obj");
 
 		if (!success)
-			Debug.LogWarning("Не удалось выполнить экспорт. Убедись, что установлен ProBuilder.");
+			Debug.LogWarning("РќРµ СѓРґР°Р»РѕСЃСЊ РІС‹РїРѕР»РЅРёС‚СЊ СЌРєСЃРїРѕСЂС‚. РЈР±РµРґРёСЃСЊ, С‡С‚Рѕ СѓСЃС‚Р°РЅРѕРІР»РµРЅ ProBuilder.");
 	}
 
 	[MenuItem("Tools/ProBuilder/Create Folders For Selected %#]")]
@@ -55,26 +55,26 @@ public class ProBuilderMergeShortcut
 
 		if (selectedObjects.Length == 0)
 		{
-			Debug.LogWarning("Нет выделенных объектов.");
+			Debug.LogWarning("РќРµС‚ РІС‹РґРµР»РµРЅРЅС‹С… РѕР±СЉРµРєС‚РѕРІ.");
 			return;
 		}
 
 		Undo.IncrementCurrentGroup();
-		Undo.SetCurrentGroupName("Создание папок и перемещение объектов");
+		Undo.SetCurrentGroupName("РЎРѕР·РґР°РЅРёРµ РїР°РїРѕРє Рё РїРµСЂРµРјРµС‰РµРЅРёРµ РѕР±СЉРµРєС‚РѕРІ");
 
 		foreach (GameObject obj in selectedObjects)
 		{
 			GameObject folder = new GameObject(obj.name + "_Folder");
 
-			Undo.RegisterCreatedObjectUndo(folder, "Создание папки");
+			Undo.RegisterCreatedObjectUndo(folder, "РЎРѕР·РґР°РЅРёРµ РїР°РїРєРё");
 
-			// Переместим папку на тот же уровень, что и объект
+			// РџРµСЂРµРјРµСЃС‚РёРј РїР°РїРєСѓ РЅР° С‚РѕС‚ Р¶Рµ СѓСЂРѕРІРµРЅСЊ, С‡С‚Рѕ Рё РѕР±СЉРµРєС‚
 			folder.transform.SetParent(obj.transform.parent);
 			folder.transform.SetSiblingIndex(obj.transform.GetSiblingIndex());
 
-			Undo.SetTransformParent(obj.transform, folder.transform, "Перемещение объекта в папку");
+			Undo.SetTransformParent(obj.transform, folder.transform, "РџРµСЂРµРјРµС‰РµРЅРёРµ РѕР±СЉРµРєС‚Р° РІ РїР°РїРєСѓ");
 		}
 
-		Debug.Log("Папки созданы и объекты перемещены.");
+		Debug.Log("РџР°РїРєРё СЃРѕР·РґР°РЅС‹ Рё РѕР±СЉРµРєС‚С‹ РїРµСЂРµРјРµС‰РµРЅС‹.");
 	}
 }

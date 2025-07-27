@@ -1,0 +1,113 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 11,
+				"visible_bounds_height": 5,
+				"visible_bounds_offset": [0, 0.5, 0]
+			},
+			"bones": [
+				{
+					"name": "main",
+					"pivot": [0, 20, 0]
+				},
+				{
+					"name": "barrel",
+					"parent": "main",
+					"pivot": [0.2, 22.6, -82.85],
+					"cubes": [
+						{
+							"origin": [-0.975, 21.1, -74.55],
+							"size": [2.1, 2, 48.3],
+							"inflate": -0.3,
+							"pivot": [0.125, 22.1, -82.85],
+							"rotation": [0, 0, -20],
+							"uv": {
+								"north": {"uv": [0, 145], "uv_size": [2, 2]},
+								"east": {"uv": [54, 13], "uv_size": [42, 2]},
+								"south": {"uv": [2, 145], "uv_size": [2, 2]},
+								"west": {"uv": [54, 15], "uv_size": [42, 2]},
+								"up": {"uv": [26, 48], "uv_size": [2, 42]},
+								"down": {"uv": [28, 90], "uv_size": [2, -42]}
+							}
+						},
+						{
+							"origin": [-0.625, 19.475, -71.85],
+							"size": [1.5, 2.3, 1.75],
+							"inflate": -0.2,
+							"uv": {
+								"north": {"uv": [145, 17], "uv_size": [2, 2]},
+								"east": {"uv": [18, 145], "uv_size": [2, 2]},
+								"south": {"uv": [145, 19], "uv_size": [2, 2]},
+								"west": {"uv": [20, 145], "uv_size": [2, 2]},
+								"up": {"uv": [145, 22], "uv_size": [2, 2]},
+								"down": {"uv": [145, 28], "uv_size": [2, -2]}
+							}
+						}
+					]
+				},
+				{
+					"name": "muzbrake",
+					"parent": "barrel",
+					"pivot": [0.2, 22.525, -84.15],
+					"cubes": [
+						{
+							"origin": [-0.875, 21.025, -84.15],
+							"size": [2, 2, 9.9],
+							"pivot": [0.125, 22.025, -84.15],
+							"rotation": [0, 0, -20],
+							"uv": {
+								"north": {"uv": [145, 3], "uv_size": [2, 2]},
+								"east": {"uv": [111, 39], "uv_size": [10, 2]},
+								"south": {"uv": [7, 145], "uv_size": [2, 2]},
+								"west": {"uv": [112, 29], "uv_size": [10, 2]},
+								"up": {"uv": [71, 111], "uv_size": [2, 10]},
+								"down": {"uv": [113, 64], "uv_size": [2, -10]}
+							}
+						}
+					]
+				},
+				{
+					"name": "_cb_suppressor",
+					"parent": "main",
+					"pivot": [0.2, 22.75, -77.225],
+					"cubes": [
+						{"origin": [-0.425, 21.6, -75.25], "size": [1, 1, 1], "uv": [4, 0]}
+					]
+				},
+				{
+					"name": "muzzleflash",
+					"parent": "main",
+					"pivot": [0, 22.5, -84.85],
+					"cubes": [
+						{
+							"origin": [-0.4, 21.55, -85.55],
+							"size": [1, 1, 1],
+							"inflate": -0.4,
+							"uv": {
+								"north": {"uv": [29, 158], "uv_size": [1, 1]},
+								"east": {"uv": [158, 29], "uv_size": [1, 1]},
+								"south": {"uv": [30, 158], "uv_size": [1, 1]},
+								"west": {"uv": [158, 30], "uv_size": [1, 1]},
+								"up": {"uv": [31, 158], "uv_size": [1, 1]},
+								"down": {"uv": [158, 32], "uv_size": [1, -1]}
+							}
+						}
+					]
+				},
+				{
+					"name": "_ca_barrelsig",
+					"parent": "main",
+					"pivot": [-0.2, 21.35, -40.325],
+					"cubes": [
+						{"origin": [-0.4, 21.65, -27.725], "size": [1, 1, 1], "uv": [0, 8]}
+					]
+				}
+			]
+		}
+	]
+}

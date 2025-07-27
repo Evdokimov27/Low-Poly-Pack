@@ -5,14 +5,16 @@ namespace LowPolyFirearms.WeaponSystem
 	public class Sight : MonoBehaviour
 	{
 		[Header("Zoom Settings")]
-		[Tooltip("Max level zoom")]
-		public float maxZoom = 4f;
+		[Tooltip("Min level zoom")]
+		public float minZoom = 4f;
 
-		[Tooltip("The step of changing the zoom (for example, 0.25 = 1.25, x1.5...)")]
+		[Tooltip("Max level zoom")]
+		public float maxZoom = 16f;
+
+		[Tooltip("The step of changing the zoom (for example, 0.25 = 4.25, 4.5...)")]
 		public float zoomStep = 0.25f;
 
-		[Tooltip("Current level zoom (x1 — no zoom)")]
-		public float zoomLevel = 1f;
+		private float zoomLevel = 4f;
 
 		private AutoScopeRender zoom;
 
@@ -33,7 +35,7 @@ namespace LowPolyFirearms.WeaponSystem
 			if (Mathf.Abs(scroll) > 0.01f)
 			{
 				zoomLevel += scroll > 0 ? zoomStep : -zoomStep;
-				zoomLevel = Mathf.Clamp(zoomLevel, 1f, maxZoom);
+				zoomLevel = Mathf.Clamp(zoomLevel, minZoom, maxZoom);
 			}
 
 			if (zoom != null)
